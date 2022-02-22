@@ -17,10 +17,10 @@ h1 {
 }
 
 .clock-container {
-  width: 50%;
-  height: 50%;
+  width: 20rem;
+  height: 20rem;
   background-color: aqua;
-  border-radius: 1rem;
+  border-radius: 50%;
 }
 
 .clock-face {
